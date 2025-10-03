@@ -85,5 +85,3 @@ The frontend will be available at `http://localhost:5173`
 **Made by Thanush**
 
 ## License
-
-MIT
