@@ -1,0 +1,22 @@
+TOP_20_URLS = [
+    "https://stripe.com",
+    "https://slack.com",
+    "https://notion.so",
+    "https://airtable.com",
+    "https://figma.com",
+    "https://hubspot.com",
+    "https://salesforce.com",
+    "https://zoom.us",
+    "https://shopify.com",
+    "https://atlassian.com",
+    "https://asana.com",
+    "https://monday.com",
+    "https://mailchimp.com",
+    "https://dropbox.com",
+    "https://intercom.com",
+    "https://zendesk.com",
+    "https://twilio.com",
+    "https://docusign.com",
+    "https://squarespace.com",
+    "https://canva.com"
+]
