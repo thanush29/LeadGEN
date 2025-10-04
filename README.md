@@ -1,4 +1,4 @@
-# LEADGEN.ai — Smart Lead Generation Tool
+# LEADGEN.ai — Smart Lead Generation Tool online https://smart-lead-new-4p9z.vercel.app/
 
 A modern, animated full-stack web application that scrapes, enriches, and scores leads automatically with beautiful dashboards and analytics. Built with FastAPI (Python) backend and React (Vite) + Framer Motion frontend.
 
